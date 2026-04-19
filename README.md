@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gourav Saini  and I'm a FullStack WEb Developer</h2>
+<h2 align="left">Hi 👋! My name is Gourav Saini  and I'm a FullStack Web Developer</h2>
 
 ###
 
